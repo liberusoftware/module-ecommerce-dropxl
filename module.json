@@ -3,7 +3,7 @@
   "name": "ecommerce-dropxl",
   "display_name": "DropXL",
   "description": "DropXL dropshipping fulfilment and catalogue import, activated per store.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "category": "adapter",
   "module_type": "feature",
   "provider": "Liberu\\Ecommerce\\Dropxl\\DropxlServiceProvider",
